@@ -1,0 +1,19 @@
+{
+  "name": "botdiscord",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "furry-wrapper": "^0.0.1",
+    "node-fetch": "^2.7.0"
+  }
+}
